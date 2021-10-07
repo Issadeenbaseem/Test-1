@@ -5,7 +5,7 @@
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Public Dashbord</h5>
-        <p class="card-text">Welcome to initial Dashbord</p>
+        <p class="card-text">In the nameo allah</p>
       </div>
     </div>
       
